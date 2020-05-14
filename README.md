@@ -1,4 +1,4 @@
-# The MIT COVID-19 Datathon
+# MIT COVID-19 Datathon
 
 The MIT COVID-19 Datathon is a week-long virtual event where teams of data scientists, clinicians, public health professionals and other subject matter experts come together to develop meaningful insights leveraging existing datasets to influence policy and decision making in the public and private sector.
 
