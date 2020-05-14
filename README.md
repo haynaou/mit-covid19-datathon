@@ -8,3 +8,21 @@ The MIT COVID-19 Datathon is a week-long virtual event where teams of data scien
 # Reseach track: Misinformation during the Pandemic 
 
 The COVID-19 pandemic has been described as the first “infodemic,” where an overabundance of information makes it challenging for people to find reliable sources when they need it most. Social media in particular can create a rabbit hole effect that allows users to fall deeper and deeper into misinformation. At a time when people’s lives and our public health depend on scientific truth, it becomes more important than ever to identify and stop how societies perpetuate misinformation. In this track, you will use datasets from social media and online news to explore key drivers of misinformation during the pandemic. Ideal mentors include experts from the social sciences and clinicians in public-facing roles. Data scientists will have experience using text, network, and other social media data.
+
+
+# Core Team
+
+[Ananth Adiga](https://www.linkedin.com/in/ananth-adiga-375023139/)
+
+[Bhawesh Kumar](https://www.linkedin.com/in/bhaweshiitk/)
+
+[Houda Aynaou](https://www.linkedin.com/in/houdaaynaou/)
+
+[María Belén Guaranda](https://www.linkedin.com/in/belen-guaranda/)
+
+
+# Mentors
+
+[Amir Tohidi Kalorazi](https://www.linkedin.com/in/amir-tohidi-kalorazi-1b099a70/)
+
+[Madhan Rangaswamy](https://www.linkedin.com/in/madhanrang/)
